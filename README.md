@@ -1,8 +1,7 @@
 # 👋 Hi, I am Pritam Soni
 
 ✨ Currently, I am pursuing my master's (M.Sc) in Mathematics & Computing from IIT(ISM),Dhanbad  
-👀 I’m interested in Data Science & Time Series  
-🌱 I’m currently learning Deep Learning & NLP  
+👀 Interest Field : Data Science/Analyst     
 📫 How to reach me: [sonibhaya999@gmail.com](mailto:sonibhaya999@gmail.com)
 
 ![Profile_view](https://komarev.com/ghpvc/?username=iamdebasishdas123&label=PROFILE+VIEWS)
