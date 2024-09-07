@@ -1,5 +1,5 @@
-# 👋 Hi, I am Pritam Soni
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am Pritam Soni </h1>
+<!-- <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1> -->
 
 ✨ Currently, I am pursuing my master's (M.Sc) in Mathematics & Computing from IIT(ISM),Dhanbad  
 👀 Interest Field : Data Science/Analyst     
